@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-
+// Mathew Adriane I. Briones & Rhona Mae P. Taccad, BSCS - 3A
 void main() => runApp(MyApp());
 
 class MyApp extends StatelessWidget {
